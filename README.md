@@ -4,6 +4,20 @@ Get `YOUR_API_KEY` from the google cloud console for the Google Calender API
 
 A new Flutter project.
 
+### APP User Interface
+<table>
+       <tr>
+       <td align="center">Home Page</td>
+       <td align="center">My Tasks Page</td>
+       <td align="center">Create Task Page</td>
+      </tr>
+       <tr>
+       <td><img src="images/homepage.jpg"></td>
+       <td><img src="images/mytaskspage.jpg"></td>
+       <td><img src="images/createTaskPage.jpg"></td>
+      </tr>
+</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
