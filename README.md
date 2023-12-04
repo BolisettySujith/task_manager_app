@@ -12,9 +12,9 @@ A new Flutter project.
        <td align="center">Create Task Page</td>
       </tr>
        <tr>
-       <td><img src="images/homepage.jpg"></td>
-       <td><img src="images/mytaskspage.jpg"></td>
-       <td><img src="images/createTaskPage.jpg"></td>
+       <td><img src="https://github.com/BolisettySujith/task_manager_app/assets/73323807/534b0668-5908-4e40-ba6f-94ecaaa83f9d"></td>
+       <td><img src="https://github.com/BolisettySujith/task_manager_app/assets/73323807/5d4d0221-548b-474f-8a23-c1f39f156c74"></td>
+       <td><img src="https://github.com/BolisettySujith/task_manager_app/assets/73323807/affeae31-f81e-4e26-99c3-9cb6f280389d"></td>
       </tr>
 </table>
 
